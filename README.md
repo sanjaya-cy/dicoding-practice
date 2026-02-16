@@ -7,4 +7,4 @@ what if i make one line conflict?<br>
 but, I don't want a conflict<br>
 <br>
 this is commit 1<br>
-
+this is commit 2<br>
