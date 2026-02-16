@@ -2,8 +2,8 @@
 
 
 **15 february 2026**<br>  
-* i've finished Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
-* Pengenalan ke Logika Pemrograman (Programming Logic 101)
+* I've finished Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+* I've finished Pengenalan ke Logika Pemrograman (Programming Logic 101)
 
 
 
