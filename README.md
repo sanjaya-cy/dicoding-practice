@@ -8,4 +8,5 @@ but, I don't want a conflict<br>
 <br>
 this is commit 1<br>
 this is commit 2<br>
-this is commit 3 for squashing exercise
+this is commit 3 for squashing exercise<br>
+code review exercise
